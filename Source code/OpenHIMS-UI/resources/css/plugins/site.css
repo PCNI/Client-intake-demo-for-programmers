@@ -1,0 +1,23 @@
+/* CSS Styles */
+
+body {
+    padding-top: 0px;
+}
+
+.home-menu .pure-menu-heading {
+    text-transform: capitalize !important; 
+	background-image: url("http://fellowtuts.com/wp-content/uploads/images/fellow-tuts-30x30.png");
+    background-position: left center;
+    background-repeat: no-repeat;
+    padding-left: 35px;
+}
+
+.title-container h1 {
+	text-align: center;	
+	text-transform: uppercase;
+}
+
+.content {
+	width: 80% !important;
+	margin: 0 auto;
+}
